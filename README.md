@@ -17,7 +17,7 @@
  ## 2. Logging in as Admin: <br>
  After providing the Admin ID and password, the user will be taken to the Admin Dashboard Page. It  contains 3 sections, Tour Booking Summary, Hotel Booking Summary and Flight Booking Summary. Each  section shows the matrix of total number of bookings in a particular a year and month. The drill down page  provides with several filters like month, year and category to display the filtered data as per admin’s requirement.
  
- 3. Logging in as User: <br>
+ ## 3. Logging in as User: <br>
  Thefollowing features will be available in the User’s Page
  A. Tour Package Booking
     -Solo Package
@@ -27,27 +27,27 @@
     -Flight Ticket Booking
  C. Hotel Booking
  
- 4. Provides the user with popular tour packages: <br>
+ ## 4. Provides the user with popular tour packages: <br>
  Number of popular packages will be displayed. User can accordingly choose a package of his/her  preference.
  
- 5. Duration of visit: <br>
+ ## 5. Duration of visit: <br>
  Allows the user to choose the number of days they want to travel. Popular tour packages will be  suggested based on the duration of visit chosen.
 
- 6. Tour Package Booking: <br>
+ ## 6. Tour Package Booking: <br>
  TourPackageBookingprovides with-Family Tour Package, Group TourPackageand Solo TourPackage. A table shows the name of the tourists spots, price of the package (inclusive Hotel, Airport, Meals,  Sightseeing, City Tours, Entry Tickets) and an itinerary.
   -The user can book a particular package based on his/her understanding and preference.
   - After booking, a form will be given and the necessary details need to be filled up.
   - Necessary Payment operations need to be carried out and once it’s done a confirmation message will be  displayed.
   - Bookings will be saved in the database which can be viewed in the Admin Page.
 
- 7.Flight Booking:
+ ## 7.Flight Booking:
    - Fromalist of cities, the user is required to elect a source city and a destination city.
    - The user will be required to provide their preferred date of travel, after which a number of flights will be  listed along with their prices according to economy and business class. Departure and arrival timings will also be displayed. The user can then book their preferred flight and class accordingly.
    - After booking, a form will be given and the necessary details need to be filled up.
    - Necessary Payment operations need to be carried out and once it’s done a confirmation message will be  displayed.
    - Bookings will be saved in the database which can be viewed in theAdmin Page.
  
- 8. Hotel Booking:
+ ## 8. Hotel Booking:
  Theuser is expected to enter a location where they wish to search for a hotel room.-
   - A list with the hotel name, address, hotel room rates, check-in time and check-out time will be displayed.
   - The user can booktheir hotel depending on their understanding and preference.
@@ -55,10 +55,10 @@
   - Necessary Payment operations need to be carried out and once it’s done a confirmation message will be displayed.
   - Bookings will be saved in the database which can be viewed in theAdmin Page.
  
- 9. PaymentProcedure:
+ ## 9. PaymentProcedure:
  The User can paythroughnet banking, credit card and debit card. After payment is successful, theuser receives a confirmation message.
 
- 10. Provides Gallery Option:
+ ## 10. Provides Gallery Option:
  We provide a gallery of pictures where our customers may view the places of interest related to their search </p>
 
 ### Home Window of the Application
