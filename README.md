@@ -70,12 +70,96 @@ Visitor’s Window
 <img width="472" alt="image" src="https://github.com/user-attachments/assets/9c2dd194-4805-4155-9eea-037d04da4c7b" />
 
 Family Tour Package 
--(Selection of duration of visit)
+(Selection of duration of visit)
 <img width="467" alt="image" src="https://github.com/user-attachments/assets/61680e11-4399-4250-a82a-d38664f1674a" />
 
-3Days All Family Packages 
--(Packages that we are providing for a 3 days Family Tour)
+3 Days All Family Packages 
+(Packages that we are providing for a 3 days Family Tour)
 <img width="467" alt="image" src="https://github.com/user-attachments/assets/02b5a9aa-c4df-4ac1-8111-e35ef9a5082d" />
+
+Alleppey 3 Days Family Packages (The package selected by the visitor)
+<img width="474" alt="image" src="https://github.com/user-attachments/assets/58b6c43b-4ddd-489f-8c93-0331c22270d7" />
+
+3 Days All Group Packages (Packages that weare providing for a 3 days Group Tour
+<img width="478" alt="image" src="https://github.com/user-attachments/assets/b8596046-2d4e-4192-b9c7-7d10590456ee" />
+
+Packages under 3 Days Group Package
+<img width="490" alt="image" src="https://github.com/user-attachments/assets/53c6e01c-0916-4ac1-b6f4-9c27637edc63" />
+
+3 Days All Solo Packages (Packages that we are providingfor a 3 days Solo Tour)
+<img width="488" alt="image" src="https://github.com/user-attachments/assets/481f5014-afed-414b-bda8-6ab5df2db888" />
+
+Packages under 3 Days Solo Package
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/e68b0f24-22f8-4bb8-9758-8f91a4b0a69e" />
+
+Gallery
+<img width="471" alt="image" src="https://github.com/user-attachments/assets/2e121058-d8ec-409c-8054-53c0bcd949cb" />
+
+TourBooking Form
+<img width="414" alt="image" src="https://github.com/user-attachments/assets/c34df49f-f9b7-4502-a206-061f03031148" />
+
+Online PaymentOption
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/8f0b1b40-c84f-498f-a1d5-5201b351d73b" />
+
+Hotel Bookings Search
+<img width="479" alt="image" src="https://github.com/user-attachments/assets/3061e331-5090-4389-ab68-b58ba5b130b7" />
+
+Hotels in Mumbai 
+<img width="475" alt="image" src="https://github.com/user-attachments/assets/c7c2cfaa-cd6f-437b-ba6a-7ee2819cbc0c" />
+
+Booking of Hotels
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/52e7ae41-4fb8-4e61-887a-2a7c3243461d" />
+
+Flight Booking Search
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/ee0cc01d-906f-4a65-8a4b-0dad12e5a6ce" />
+
+Flight from New Delhi to Mumbai (Thereareseveralflightroutes; one such is New DelhitoMumbai)
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/3e93ab7d-5409-4503-88d8-759a1f05d19e" />
+
+AdminLogin
+<img width="265" alt="image" src="https://github.com/user-attachments/assets/1b1aeb6e-e0ee-4f8f-b5e1-8c034da60186" />
+
+Admin Dashboard
+<img width="581" alt="image" src="https://github.com/user-attachments/assets/de8a5c33-03ad-434c-9ea7-5a3e0c503a35" />
+
+Admin Window Tour Package Bookings
+<img width="586" alt="image" src="https://github.com/user-attachments/assets/8091d040-71ad-4a5a-ad86-d4cc2ab01b29" />
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/98a94572-9f3e-429b-b1b1-7f81599f351a" />
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/ed020a49-4764-4cf2-9dc5-e6d0331cef65" />
+
+Admin Window Hotel Bookings
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/3e976396-31e0-4ca1-a2f8-d2baa0393b45" />
+
+ Admin Window Flight Bookings
+ <img width="565" alt="image" src="https://github.com/user-attachments/assets/74bfa0c4-b916-4fb3-88b9-dea51a680e43" />
+
+ Database Tables
+ <img width="391" alt="image" src="https://github.com/user-attachments/assets/6a629951-349c-4e99-866c-9a9abfd60778" />
+ <img width="384" alt="image" src="https://github.com/user-attachments/assets/6aabd6d8-640e-40ee-a1b8-c80b8f9e71b1" />
+ <img width="390" alt="image" src="https://github.com/user-attachments/assets/90adf7d6-db1b-40be-82d3-300e836f8874" />
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
