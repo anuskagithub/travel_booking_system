@@ -1,7 +1,7 @@
 Daily Travel Bokking System
 
 OBJECTIVE OF THEPROPOSEDSYSTEM
- Daily Travel Management is a software where a user may search and apply for a travel service or package.  The system provides the user with various popular travel destinations and choose his destination  accordingly. The software system checks for user choice and then queries the database for various  available mediums to travel to that destination. The system then loads all that data and puts those choices  in front of the user. When the user books train or Airplane option, the system also allows the user to book
+ Daily Travel Management is a software where a user may search and apply for a travel service or package. The system provides the user with various popular travel destinations and choose his destination  accordingly. The software system checks for user choice and then queries the database for various  available mediums to travel to that destination. The system then loads all that data and puts those choices  in front of the user. When the user books train or Airplane option, the system also allows the user to book
  tickets to the destination for the desire day and timings. Thus, this software system automates the working  of a travel agency and allows users to check and book his holidays online through this website.
  1. Tocreateanapplication for an organization.
  2. Toprovidesearchfacility for customers.
@@ -10,6 +10,7 @@ OBJECTIVE OF THEPROPOSEDSYSTEM
  5. Toprovidepackage details
 
 FUNCTIONS AND FEATURES OF THE PROPOSED SYSTEM
+ 
  1.HomePage:
  Two options will be available for logging in:
  - Logging in as ADMIN (Logging in to the AdminPage will require Admin ID andpassword.)
@@ -21,11 +22,11 @@ FUNCTIONS AND FEATURES OF THE PROPOSED SYSTEM
  3. Logging in as User:
  Thefollowing features will be available in the User’s Page
  A. Tour Package Booking
-   i. Solo Package
-   ii. Family Package
-   iii. Group Package
+    -Solo Package
+    -Family Package
+    -Group Package
  B. Transport Booking
-   i. Flight Ticket Booking
+    -Flight Ticket Booking
  C. Hotel Booking
  
  4. Provides the user with popular tour packages:
@@ -69,11 +70,11 @@ Visitor’s Window
 <img width="472" alt="image" src="https://github.com/user-attachments/assets/9c2dd194-4805-4155-9eea-037d04da4c7b" />
 
 Family Tour Package 
-(Selection of duration of visit)
+-(Selection of duration of visit)
 <img width="467" alt="image" src="https://github.com/user-attachments/assets/61680e11-4399-4250-a82a-d38664f1674a" />
 
 3Days All Family Packages 
-(Packages that we are providing for a 3 days Family Tour)
+-(Packages that we are providing for a 3 days Family Tour)
 <img width="467" alt="image" src="https://github.com/user-attachments/assets/02b5a9aa-c4df-4ac1-8111-e35ef9a5082d" />
 
 
