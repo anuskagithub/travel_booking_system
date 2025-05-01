@@ -1,13 +1,12 @@
 Daily Travel Bokking System
 
 OBJECTIVE OF THEPROPOSEDSYSTEM
- Daily Travel Management is a software where a user may search and apply for a travel service or package. The system provides the user with various popular travel destinations and choose his destination  accordingly. The software system checks for user choice and then queries the database for various  available mediums to travel to that destination. The system then loads all that data and puts those choices  in front of the user. When the user books train or Airplane option, the system also allows the user to book
- tickets to the destination for the desire day and timings. Thus, this software system automates the working  of a travel agency and allows users to check and book his holidays online through this website.
+<p align='justify'> Daily Travel Management is a software where a user may search and apply for a travel service or package. The system provides the user with various popular travel destinations and choose his destination  accordingly. The software system checks for user choice and then queries the database for various  available mediums to travel to that destination. The system then loads all that data and puts those choices  in front of the user. When the user books train or Airplane option, the system also allows the user to book tickets to the destination for the desire day and timings. Thus, this software system automates the working  of a travel agency and allows users to check and book his holidays online through this website.
  1. Tocreateanapplication for an organization.
  2. Toprovidesearchfacility for customers.
  3. Togeneratedifferent types of reports.
  4. ToprovidetheonlineTicket Booking and Online PaymentFacility for customers.
- 5. Toprovidepackage details
+ 5. Toprovidepackage details </p>
 
 FUNCTIONS AND FEATURES OF THE PROPOSED SYSTEM
  
