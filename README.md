@@ -64,86 +64,74 @@ FUNCTIONS AND FEATURES OF THE PROPOSED SYSTEM
  We provide a gallery of pictures where our customers may view the places of interest related to their search
 
 ### Home Window of the Application
-
-<p align="center">
+<p align="left">
   <img width="518" alt="Home Window" src="https://github.com/user-attachments/assets/cc0c3561-a317-4be2-96d2-c78dc5fcb5a6" />
 </p>
 
+### Visitor’s Window
+<p align="left"> <img width="472" alt="Visitor’s Window" src="https://github.com/user-attachments/assets/9c2dd194-4805-4155-9eea-037d04da4c7b" /> </p>
 
-Visitor’s Window
-<img width="472" alt="image" src="https://github.com/user-attachments/assets/9c2dd194-4805-4155-9eea-037d04da4c7b" />
+### Family Tour Package(Selection of duration of visit)
+<p align="left"> <img width="467" alt="Family Tour Package" src="https://github.com/user-attachments/assets/61680e11-4399-4250-a82a-d38664f1674a" /> </p>
 
-Family Tour Package 
-(Selection of duration of visit)
-<img width="467" alt="image" src="https://github.com/user-attachments/assets/61680e11-4399-4250-a82a-d38664f1674a" />
+### 3 Days All Family Packages(Packages that we are providing for a 3 days Family Tour)
+<p align="left"> <img width="467" alt="3 Days All Family Packages" src="https://github.com/user-attachments/assets/02b5a9aa-c4df-4ac1-8111-e35ef9a5082d" /> </p>
 
-3 Days All Family Packages 
-(Packages that we are providing for a 3 days Family Tour)
-<img width="467" alt="image" src="https://github.com/user-attachments/assets/02b5a9aa-c4df-4ac1-8111-e35ef9a5082d" />
+### Alleppey 3 Days Family Packages(The package selected by the visitor)
+<p align="left"> <img width="474" alt="Alleppey 3 Days Family Packages" src="https://github.com/user-attachments/assets/58b6c43b-4ddd-489f-8c93-0331c22270d7" /> </p>
 
-Alleppey 3 Days Family Packages (The package selected by the visitor)
-<img width="474" alt="image" src="https://github.com/user-attachments/assets/58b6c43b-4ddd-489f-8c93-0331c22270d7" />
+### 3 Days All Group Packages(Packages that we are providing for a 3 days Group Tour)
+<p align="left"> <img width="478" alt="3 Days All Group Packages" src="https://github.com/user-attachments/assets/b8596046-2d4e-4192-b9c7-7d10590456ee" /> </p>
 
-3 Days All Group Packages (Packages that weare providing for a 3 days Group Tour
-<img width="478" alt="image" src="https://github.com/user-attachments/assets/b8596046-2d4e-4192-b9c7-7d10590456ee" />
+### Packages under 3 Days Group Package
+<p align="left"> <img width="490" alt="Packages under 3 Days Group Package" src="https://github.com/user-attachments/assets/53c6e01c-0916-4ac1-b6f4-9c27637edc63" /> </p>
 
-Packages under 3 Days Group Package
-<img width="490" alt="image" src="https://github.com/user-attachments/assets/53c6e01c-0916-4ac1-b6f4-9c27637edc63" />
+### 3 Days All Solo Packages(Packages that we are providing for a 3 days Solo Tour)
+<p align="left"> <img width="488" alt="3 Days All Solo Packages" src="https://github.com/user-attachments/assets/481f5014-afed-414b-bda8-6ab5df2db888" /> </p>
 
-3 Days All Solo Packages (Packages that we are providingfor a 3 days Solo Tour)
-<img width="488" alt="image" src="https://github.com/user-attachments/assets/481f5014-afed-414b-bda8-6ab5df2db888" />
+### Packages under 3 Days Solo Package
+<p align="left"> <img width="482" alt="Packages under 3 Days Solo Package" src="https://github.com/user-attachments/assets/e68b0f24-22f8-4bb8-9758-8f91a4b0a69e" /> </p>
 
-Packages under 3 Days Solo Package
-<img width="482" alt="image" src="https://github.com/user-attachments/assets/e68b0f24-22f8-4bb8-9758-8f91a4b0a69e" />
+### Gallery
+<p align="left"> <img width="471" alt="Gallery" src="https://github.com/user-attachments/assets/2e121058-d8ec-409c-8054-53c0bcd949cb" /> </p>
 
-Gallery
-<img width="471" alt="image" src="https://github.com/user-attachments/assets/2e121058-d8ec-409c-8054-53c0bcd949cb" />
+### Tour Booking Form
+<p align="left"> <img width="414" alt="Tour Booking Form" src="https://github.com/user-attachments/assets/c34df49f-f9b7-4502-a206-061f03031148" /> </p>
 
-TourBooking Form
-<img width="414" alt="image" src="https://github.com/user-attachments/assets/c34df49f-f9b7-4502-a206-061f03031148" />
+### Online Payment Option
+<p align="left"> <img width="284" alt="Online Payment Option" src="https://github.com/user-attachments/assets/8f0b1b40-c84f-498f-a1d5-5201b351d73b" /> </p>
 
-Online PaymentOption
-<img width="284" alt="image" src="https://github.com/user-attachments/assets/8f0b1b40-c84f-498f-a1d5-5201b351d73b" />
+### Hotel Bookings Search
+<p align="left"> <img width="479" alt="Hotel Bookings Search" src="https://github.com/user-attachments/assets/3061e331-5090-4389-ab68-b58ba5b130b7" /> </p>
 
-Hotel Bookings Search
-<img width="479" alt="image" src="https://github.com/user-attachments/assets/3061e331-5090-4389-ab68-b58ba5b130b7" />
+### Hotels in Mumbai
+<p align="left"> <img width="475" alt="Hotels in Mumbai" src="https://github.com/user-attachments/assets/c7c2cfaa-cd6f-437b-ba6a-7ee2819cbc0c" /> </p>
 
-Hotels in Mumbai 
-<img width="475" alt="image" src="https://github.com/user-attachments/assets/c7c2cfaa-cd6f-437b-ba6a-7ee2819cbc0c" />
-
-Booking of Hotels
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/52e7ae41-4fb8-4e61-887a-2a7c3243461d" />
-
+### Booking of Hotels
+<p align="left"> <img width="450" alt="Booking of Hotels" src="https://github.com/user-attachments/assets/52e7ae41-4fb8-4e61-887a-2a7c3243461d" /> </p>
 Flight Booking Search
-<img width="473" alt="image" src="https://github.com/user-attachments/assets/ee0cc01d-906f-4a65-8a4b-0dad12e5a6ce" />
+<p align="left"> <img width="473" alt="Flight Booking Search" src="https://github.com/user-attachments/assets/ee0cc01d-906f-4a65-8a4b-0dad12e5a6ce" /> </p>
 
-Flight from New Delhi to Mumbai (Thereareseveralflightroutes; one such is New DelhitoMumbai)
-<img width="470" alt="image" src="https://github.com/user-attachments/assets/3e93ab7d-5409-4503-88d8-759a1f05d19e" />
+### Flight from New Delhi to Mumbai(There are several flight routes; one such is New Delhi to Mumbai)
+<p align="left"> <img width="470" alt="Flight from New Delhi to Mumbai" src="https://github.com/user-attachments/assets/3e93ab7d-5409-4503-88d8-759a1f05d19e" /> </p>
 
-AdminLogin
-<img width="265" alt="image" src="https://github.com/user-attachments/assets/1b1aeb6e-e0ee-4f8f-b5e1-8c034da60186" />
+### Admin Login
+<p align="left"> <img width="265" alt="Admin Login" src="https://github.com/user-attachments/assets/1b1aeb6e-e0ee-4f8f-b5e1-8c034da60186" /> </p>
 
-Admin Dashboard
-<img width="581" alt="image" src="https://github.com/user-attachments/assets/de8a5c33-03ad-434c-9ea7-5a3e0c503a35" />
+### Admin Dashboard
+<p align="left"> <img width="581" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/de8a5c33-03ad-434c-9ea7-5a3e0c503a35" /> </p>
 
-Admin Window Tour Package Bookings
-<img width="586" alt="image" src="https://github.com/user-attachments/assets/8091d040-71ad-4a5a-ad86-d4cc2ab01b29" />
-<img width="584" alt="image" src="https://github.com/user-attachments/assets/98a94572-9f3e-429b-b1b1-7f81599f351a" />
-<img width="575" alt="image" src="https://github.com/user-attachments/assets/ed020a49-4764-4cf2-9dc5-e6d0331cef65" />
+### Admin Window Tour Package Bookings
+<p align="left"> <img width="586" alt="Admin Window Tour Package Bookings 1" src="https://github.com/user-attachments/assets/8091d040-71ad-4a5a-ad86-d4cc2ab01b29" /> <img width="584" alt="Admin Window Tour Package Bookings 2" src="https://github.com/user-attachments/assets/98a94572-9f3e-429b-b1b1-7f81599f351a" /> <img width="575" alt="Admin Window Tour Package Bookings 3" src="https://github.com/user-attachments/assets/ed020a49-4764-4cf2-9dc5-e6d0331cef65" /> </p>
 
-Admin Window Hotel Bookings
-<img width="575" alt="image" src="https://github.com/user-attachments/assets/3e976396-31e0-4ca1-a2f8-d2baa0393b45" />
+### Admin Window Hotel Bookings
+<p align="left"> <img width="575" alt="Admin Window Hotel Bookings" src="https://github.com/user-attachments/assets/3e976396-31e0-4ca1-a2f8-d2baa0393b45" /> </p>
 
- Admin Window Flight Bookings
- <img width="565" alt="image" src="https://github.com/user-attachments/assets/74bfa0c4-b916-4fb3-88b9-dea51a680e43" />
+### Admin Window Flight Bookings
+<p align="left"> <img width="565" alt="Admin Window Flight Bookings" src="https://github.com/user-attachments/assets/74bfa0c4-b916-4fb3-88b9-dea51a680e43" /> </p>
 
- Database Tables
- <img width="391" alt="image" src="https://github.com/user-attachments/assets/6a629951-349c-4e99-866c-9a9abfd60778" />
- <img width="384" alt="image" src="https://github.com/user-attachments/assets/6aabd6d8-640e-40ee-a1b8-c80b8f9e71b1" />
- <img width="390" alt="image" src="https://github.com/user-attachments/assets/90adf7d6-db1b-40be-82d3-300e836f8874" />
-
-
-
+### Database Tables
+<p align="left"> <img width="391" alt="Database Table 1" src="https://github.com/user-attachments/assets/6a629951-349c-4e99-866c-9a9abfd60778" /> <img width="384" alt="Database Table 2" src="https://github.com/user-attachments/assets/6aabd6d8-640e-40ee-a1b8-c80b8f9e71b1" /> <img width="390" alt="Database Table 3" src="https://github.com/user-attachments/assets/90adf7d6-db1b-40be-82d3-300e836f8874" /> </p>
 
  
 
