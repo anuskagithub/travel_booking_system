@@ -61,6 +61,7 @@
  ## 10. Provides Gallery Option:
  We provide a gallery of pictures where our customers may view the places of interest related to their search </p>
 
+### Screenshots of the Proposed System
 ### Home Window of the Application
 <p align="left">
   <img width="518" alt="Home Window" src="https://github.com/user-attachments/assets/cc0c3561-a317-4be2-96d2-c78dc5fcb5a6" />
