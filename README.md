@@ -6,7 +6,7 @@ OBJECTIVE OF THEPROPOSEDSYSTEM
  2. Toprovidesearchfacility for customers.
  3. Togeneratedifferent types of reports.
  4. ToprovidetheonlineTicket Booking and Online PaymentFacility for customers.
- 5. Toprovidepackage details </p>
+ 5. Toprovidepackage details 
 
 FUNCTIONS AND FEATURES OF THE PROPOSED SYSTEM
  
@@ -60,7 +60,7 @@ FUNCTIONS AND FEATURES OF THE PROPOSED SYSTEM
  The User can paythroughnet banking, credit card and debit card. After payment is successful, theuser receives a confirmation message.
 
  10. Provides Gallery Option:
- We provide a gallery of pictures where our customers may view the places of interest related to their search
+ We provide a gallery of pictures where our customers may view the places of interest related to their search </p>
 
 ### Home Window of the Application
 <p align="left">
