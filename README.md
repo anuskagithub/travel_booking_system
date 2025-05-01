@@ -108,7 +108,8 @@
 
 ### Booking of Hotels
 <p align="left"> <img width="450" alt="Booking of Hotels" src="https://github.com/user-attachments/assets/52e7ae41-4fb8-4e61-887a-2a7c3243461d" /> </p>
-Flight Booking Search
+
+### Flight Booking Search
 <p align="left"> <img width="473" alt="Flight Booking Search" src="https://github.com/user-attachments/assets/ee0cc01d-906f-4a65-8a4b-0dad12e5a6ce" /> </p>
 
 ### Flight from New Delhi to Mumbai(There are several flight routes; one such is New Delhi to Mumbai)
