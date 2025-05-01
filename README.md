@@ -15,10 +15,10 @@ FUNCTIONS AND FEATURES OF THE PROPOSED SYSTEM
  - Logging in as ADMIN (Logging in to the AdminPage will require Admin ID andpassword.)
  - Logging in as USER.
  
- 2. Logging in as Admin:
+ 2. Logging in as Admin: <br>
  After providing the Admin ID and password, the user will be taken to the Admin Dashboard Page. It  contains 3 sections, Tour Booking Summary, Hotel Booking Summary and Flight Booking Summary. Each  section shows the matrix of total number of bookings in a particular a year and month. The drill down page  provides with several filters like month, year and category to display the filtered data as per admin’s requirement.
  
- 3. Logging in as User:
+ 3. Logging in as User: <br>
  Thefollowing features will be available in the User’s Page
  A. Tour Package Booking
     -Solo Package
@@ -28,13 +28,13 @@ FUNCTIONS AND FEATURES OF THE PROPOSED SYSTEM
     -Flight Ticket Booking
  C. Hotel Booking
  
- 4. Provides the user with popular tour packages:
+ 4. Provides the user with popular tour packages: <br>
  Number of popular packages will be displayed. User can accordingly choose a package of his/her  preference.
  
- 5. Duration of visit:
+ 5. Duration of visit: <br>
  Allows the user to choose the number of days they want to travel. Popular tour packages will be  suggested based on the duration of visit chosen.
 
- 6. Tour Package Booking:
+ 6. Tour Package Booking: <br>
  TourPackageBookingprovides with-Family Tour Package, Group TourPackageand Solo TourPackage. A table shows the name of the tourists spots, price of the package (inclusive Hotel, Airport, Meals,  Sightseeing, City Tours, Entry Tickets) and an itinerary.
   -The user can book a particular package based on his/her understanding and preference.
   - After booking, a form will be given and the necessary details need to be filled up.
