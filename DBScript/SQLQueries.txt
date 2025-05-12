@@ -1,0 +1,172 @@
+#----------------------------------------------Create Tables-----------------------------------------------
+CREATE TABLE GlobalValueTab
+(
+   GlobalValue VARCHAR(500),
+   ValueCategory VARCHAR(300)
+);
+
+CREATE TABLE Gallery
+(
+   GalleryName VARCHAR(500),
+   GalleryPath VARCHAR(500)
+);
+
+CREATE TABLE Booking_Tour
+(
+   Booking_ID 	BIGINT     AUTO_INCREMENT PRIMARY KEY,
+   Packgae_Name    VARCHAR(100)   NOT NULL,
+   Package_Type       VARCHAR(50),     
+   Date_of_Journey   VARCHAR(20)     NOT NULL,
+  Visitor_Name    	VARCHAR(50)     NOT NULL,
+  Age             	INT  NOT NULL, 
+  Sex             	VARCHAR(20)     NOT NULL,
+  Mobie_No        	BIGINT NOT NULL,
+  Email_ID        	VARCHAR(100)   NOT NULL,
+  Address                   VARCHAR(200)   NOT NULL,
+  
+  Mem1_Name          VARCHAR(50),
+  Mem1_Age              INT,
+  Mem1_Sex              VARCHAR(20),
+  
+  Mem2_Name          VARCHAR(50),
+  Mem2_Age              INT,
+  Mem2_Sex              VARCHAR(20),
+
+  Mem3_Name          VARCHAR(50),
+  Mem3_Age              INT,
+  Mem3_Sex              VARCHAR(20),
+
+  Mem4_Name          VARCHAR(50),
+  Mem4_Age              INT,
+  Mem4_Sex              VARCHAR(20),
+
+  Mem5_Name          VARCHAR(50),
+  Mem5_Age              INT,
+  Mem5_Sex              VARCHAR(20)
+)AUTO_INCREMENT = 1001;
+
+//ALTER TABLE Booking_Tour AUTO_INCREMENT = 1001;
+
+//INSERT INTO Booking_Tour(Packgae_Name,Date_of_Journey,Visitor_Name,Age,Sex,Mobie_No,Email_ID) VALUES('Goa tour','12/May/2022','Abhijit Maity',50,'Male',9830132136,'maity.abhijit@gmail.com');
+
+CREATE TABLE Booking_Hotel
+(
+   Booking_ID 	BIGINT     AUTO_INCREMENT PRIMARY KEY,
+   Hotel_Name           VARCHAR(100)   NOT NULL,
+   Location                  VARCHAR(50),     
+   Check_In_Date     VARCHAR(20)     NOT NULL,
+   Check_Out_Date   VARCHAR(20)     NOT NULL,
+   Total_Room            INT NOT NULL,  
+   Visitor_Name    	VARCHAR(50)     NOT NULL,
+  Age             	INT  NOT NULL, 
+  Sex             	VARCHAR(20)     NOT NULL,
+  Mobie_No        	BIGINT NOT NULL,
+  Email_ID        	VARCHAR(100)   NOT NULL,
+  Address                   VARCHAR(200)   NOT NULL,
+  
+  Mem1_Name          VARCHAR(50),
+  Mem1_Age              INT,
+  Mem1_Sex              VARCHAR(20),
+  
+  Mem2_Name          VARCHAR(50),
+  Mem2_Age              INT,
+  Mem2_Sex              VARCHAR(20),
+
+  Mem3_Name          VARCHAR(50),
+  Mem3_Age              INT,
+  Mem3_Sex              VARCHAR(20),
+
+  Mem4_Name          VARCHAR(50),
+  Mem4_Age              INT,
+  Mem4_Sex              VARCHAR(20),
+
+  Mem5_Name          VARCHAR(50),
+  Mem5_Age              INT,
+  Mem5_Sex              VARCHAR(20)
+)AUTO_INCREMENT = 2001;
+
+CREATE TABLE Booking_Flight
+(
+   Booking_ID 	BIGINT     AUTO_INCREMENT PRIMARY KEY,
+   Flight_Rout            VARCHAR(100)   NOT NULL,
+   Flight_Name          VARCHAR(50),     
+   Journey_Date        VARCHAR(20)     NOT NULL,
+   Visitor_Name    	VARCHAR(50)     NOT NULL,
+  Age             	INT  NOT NULL, 
+  Sex             	VARCHAR(20)     NOT NULL,
+  Mobie_No        	BIGINT NOT NULL,
+  Email_ID        	VARCHAR(100)   NOT NULL,
+  Address                   VARCHAR(200)   NOT NULL,
+  
+  Mem1_Name          VARCHAR(50),
+  Mem1_Age              INT,
+  Mem1_Sex              VARCHAR(20),
+  
+  Mem2_Name          VARCHAR(50),
+  Mem2_Age              INT,
+  Mem2_Sex              VARCHAR(20),
+
+  Mem3_Name          VARCHAR(50),
+  Mem3_Age              INT,
+  Mem3_Sex              VARCHAR(20),
+
+  Mem4_Name          VARCHAR(50),
+  Mem4_Age              INT,
+  Mem4_Sex              VARCHAR(20),
+
+  Mem5_Name          VARCHAR(50),
+  Mem5_Age              INT,
+  Mem5_Sex              VARCHAR(20)
+)AUTO_INCREMENT = 3001;
+#----------------------------------------------End Create Tables------------------------------------------
+
+#----------------------------------------------Insert Tables------------------------------------------
+
+INSERT INTO Gallery VALUES('Puri', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Puri.jpg');
+
+INSERT INTO Gallery VALUES('Alleppey', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Allepey.jpg');
+INSERT INTO Gallery VALUES('Andaman', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Andaman.jpg');
+INSERT INTO Gallery VALUES('Bhirgu', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_BhirguLakeTrek.jpg');
+INSERT INTO Gallery VALUES('Brahmatal', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_BrahmatalTrek.jpg');
+INSERT INTO Gallery VALUES('Darjeeling', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Darjeeling.jpg');
+INSERT INTO Gallery VALUES('Dayara Bugyal', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_DayaraBugyal.jpg');
+INSERT INTO Gallery VALUES('Dzongri', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Dzongri.jpg');
+INSERT INTO Gallery VALUES('Goa', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Goa.jpg');
+INSERT INTO Gallery VALUES('Golden Triangle', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_GoldenTriangle.jpg');
+INSERT INTO Gallery VALUES('Jim Corbett', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_JimCorbett.jpg');
+INSERT INTO Gallery VALUES('Kachengunga', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_kanchengunjaBasecamp.jpg');
+INSERT INTO Gallery VALUES('Karnataka', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Karnataka.jpg');
+INSERT INTO Gallery VALUES('Kashmir', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Kashmir.jpg');
+INSERT INTO Gallery VALUES('Rishikesh', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Rishikesh.jpg');
+
+/*---------------------------------------------*/
+INSERT INTO Gallery VALUES('Lonavala', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Puri.jpg');
+INSERT INTO Gallery VALUES('Nagtibba', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Puri.jpg');
+INSERT INTO Gallery VALUES('Rishikesh', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Puri.jpg');
+
+INSERT INTO Gallery VALUES('Gangtok', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Puri.jpg');
+
+
+INSERT INTO Gallery VALUES('Leh-Ladakh', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Puri.jpg');
+
+INSERT INTO Gallery VALUES('Puducherry', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Puri.jpg');
+INSERT INTO Gallery VALUES('Rishikesh', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Rishikesh.jpg');
+INSERT INTO Gallery VALUES('Singalila-Sandakphu', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Puri.jpg');
+INSERT INTO Gallery VALUES('Varanasi', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Puri.jpg');
+
+
+INSERT INTO Gallery VALUES('Ladakh', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Puri.jpg');
+INSERT INTO Gallery VALUES('LehLadakh', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Puri.jpg');
+INSERT INTO Gallery VALUES('Nanda Devi', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Puri.jpg');
+INSERT INTO Gallery VALUES('Rajasthan', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Puri.jpg');
+INSERT INTO Gallery VALUES('South India', 'D:/Anuska/Travel2021/Daily_Travel_Booking/Pictures/Gallery_Puri.jpg');
+
+
+#pic dimention: 1360 X 620
+#------------------------------------select ----------End Insert Tables------------------------------------------
+
+
+def btnAsShowGallery_clik():
+    DataAccess.put_GlobalVal("Rajastha")
+    root.destroy()
+    import Gallery    

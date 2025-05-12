@@ -1,0 +1,36 @@
+SELECT year(STR_TO_DATE(Date_of_Journey, "%M %d %Y")) as Tyear, month(STR_TO_DATE(Date_of_Journey, "%M %d %Y")) as Tmonth, Count(*) from booking_tour group by Tyear,Tmonth;
+
+SELECT YEAR(STR_TO_DATE(Date_of_Journey, "%M %d %Y")) as Book_Year, MONTH(STR_TO_DATE(Date_of_Journey, "%M %d %Y")) as Book_Month, Count(*) FROM Booking_Tour WHERE Package_Type='Family' GROUP BY Book_Year, Book_Month ORDER BY Book_Year, Book_Month
+
+SELECT YEAR(STR_TO_DATE(Date_of_Journey, "%M %d %Y")) as Book_Year, MONTH(STR_TO_DATE(Date_of_Journey, "%M %d %Y")) as Book_Month, Count(*) FROM Booking_Tour GROUP BY Book_Year, Book_Month ORDER BY Book_Year, Book_Month
+
+Flight:
+SELECT YEAR(STR_TO_DATE(Journey_Date, '%M %d %Y')) as Book_Year, MONTH(STR_TO_DATE(Journey_Date, '%M %d %Y')) as Book_Month, Count(*) FROM Booking_Flight GROUP BY Book_Year, Book_Month ORDER BY Book_Year, Book_Month
+
+Hotel:
+SELECT YEAR(STR_TO_DATE(Check_In_Date, "%M %d %Y")) as Book_Year, MONTH(STR_TO_DATE(Check_In_Date, "%M %d %Y")) as Book_Month, Count(*) FROM Booking_Hotel GROUP BY Book_Year, Book_Month ORDER BY Book_Year, Book_Month
+
+
+
+select booking_id, Packgae_name, date_of_journey  from booking_Tour order by year(str_to_date(date_of_journey,'%M %d %Y')) desc, month(str_to_date(date_of_journey,'%M %d %Y')) desc
+
+select booking_id, Packgae_name, date_of_journey, year(str_to_date(date_of_journey,'% %m %y')) as byear  from booking_Tour
+
+
+
+mysql> select booking_id, Packgae_name, date_of_journey  from booking_Tour order by year(str_to_date(date_of_journey,'%M %d %Y')), month(str_to_date(date_of_journey,'%M %d %Y')), day(str_to_date(date_of_journey,'%M %d %Y'))
+
+
+
+i=0
+    for bkn in allBookings:
+        
+        #m=bkn[2].find(month)
+        #if m>-1:
+       tvPBooking.insert(parent='', index=i, iid=i, values=(bkn[1], bkn[2], bkn[3], bkn[4], bkn[5], bkn[6], bkn[7], bkn[8], bkn[9], bkn[10], bkn[11], bkn[12], bkn[13]))
+       i=i+1
+       tvPBooking.pack() 
+
+SITE MAP need to create
+
+
